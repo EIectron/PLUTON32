@@ -4,3 +4,4 @@ An open source **Raspberry Pi Zero** size ESP32 development board
  
  <img src="4.IMAGES/TOP.png">
  
+ <img src="4.IMAGES/pinout.png">
