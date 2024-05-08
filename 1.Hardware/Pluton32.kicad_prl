@@ -64,8 +64,14 @@
       35,
       36
     ],
-    "visible_layers": "0015050_00000000",
+    "visible_layers": "00150ff_80000001",
     "zone_display_mode": 0
+  },
+  "git": {
+    "repo_password": "",
+    "repo_type": "",
+    "repo_username": "",
+    "ssh_key": ""
   },
   "meta": {
     "filename": "Pluton32.kicad_prl",
